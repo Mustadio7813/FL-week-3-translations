@@ -376,7 +376,7 @@ translate spanish d15s03_middle_99811563:
 translate spanish d15s03_middle_38219b40:
 
     # pb "Jack shit. {w}It claims that it will share my pics with my parents or something, but I don't care about that."
-    pb "Jack mierda. {w}Afirma que compartirá mis fotos con mis padres o algo así, pero eso no me importa."
+    pb "Mierda. {w}Afirma que compartirá mis fotos con mis padres o algo así, pero eso no me importa."
 
 # game/code/d15/d15s03.rpy:218
 translate spanish d15s03_middle_a31340dd:
@@ -412,7 +412,7 @@ translate spanish d15s03_middle_b85746b1:
 translate spanish d15s03_middle_65401d68:
 
     # pb "I, uh... {w} I heard some rumors through the grapevine. Any truth to them?"
-    pb "Yo, eh... {w} Escuché algunos rumores a través de la vid. ¿Alguna verdad para ellos?"
+    pb "Yo, eh... {w}  He oído algunos rumores. ¿Hay algo de cierto en ellos?"
 
 # game/code/d15/d15s03.rpy:236
 translate spanish d15s03_middle_7f4c9957:
@@ -430,7 +430,7 @@ translate spanish d15s03_middle_b689bae8:
 translate spanish d15s03_middle_633c9d5b:
 
     # mc "Oh, yeah. Fuck, I should have told you."
-    mc "Oh sí. Joder, debería habértelo dicho.."
+    mc "Oh sí. Joder, debería habértelo dicho."
 
 # game/code/d15/d15s03.rpy:245
 translate spanish d15s03_middle_84e288fc:
@@ -490,7 +490,7 @@ translate spanish d15s03_middle_4c75576a:
 translate spanish d15s03_middle_ae37c7f0:
 
     # mc "Yep. She's cool with it."
-    mc "Sí. Ella está bien con eso.."
+    mc "Sí. Ella está bien con eso."
 
 # game/code/d15/d15s03.rpy:273
 translate spanish d15s03_middle_253448c2:
