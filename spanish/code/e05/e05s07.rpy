@@ -1798,5 +1798,5 @@ translate spanish strings:
 translate spanish e05s07_bar_0930b9cd:
 
     # mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
-    mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
+    mh "De hecho, la mayoría de los abogados defensores que conozco habrían echado un vistazo a sus antecedentes penales y se habrían largado. O aceptado ese terrible acuerdo y la habrían encerrado."
 
